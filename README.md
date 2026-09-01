@@ -3,7 +3,7 @@ This repository contains the data files as well as code to reproduce the results
 
 Below is the list of R scripts:\
 0_HelperFunctions.R - helper functions for network medicine approach.\
-1_ConstructingPPI.R - harmonizing PPI networks from Gross et al., 2026 (https://github.com/BnayaGross/Longevity-module/) and Zhou et al., 2020 (https://github.com/ChengF-Lab/2019-nCoV).\
+1_ConstructingPPI.R - harmonizing PPI networks from Gross et al., 2026 (https://github.com/BnayaGross/Longevity-module/) and Zhou et al., 2020 (https://github.com/ChengF-Lab/2019-nCoV). \
 2_DrugBank_DataReconciliation.R - processing raw DrugBank data.\
 2_DrugBank_DataReconciliation_ATC_OnSIDES.R - process ATC codes and ONSIDES.\
 3_BindingAffinity.R - harmonizing binding affinity data across BindingDB, TTD, and CHEMBL.\
