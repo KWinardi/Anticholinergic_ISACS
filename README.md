@@ -1,7 +1,7 @@
 # Anticholinergic_ISACS
 This repository contains the code to reproduce the results presented in the article: "Systems pharmacology identifies centrally acting anticholinergic activity of drugs and their aging-related signatures".
 
-Access to raw data from databases:
+Access to raw data from databases: \
 DrugBank (under the academic license agreement): https://go.drugbank.com/releases/latest \
 DGIdb: https://dgidb.org/downloads \
 TTD: https://ttd.idrblab.cn/full-data-download \
@@ -16,7 +16,7 @@ SIDER: https://sideeffects.embl.de/ \
 DrugMatrix Affymetrix Superseries: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE57822 \
 DrugMatrix CodeLink Superseries: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE59927 \
 
-Access to raw data from publications:
+Access to raw data from publications: \
 Cmax (Smit et al., 2020): https://doi.org/10.1021/acs.chemrestox.0c00294 \
 Chew's SAA list (Chew et al., 2008): https://doi.org/10.1111/j.1532-5415.2008.01737.x \
 ACSBC (Al Rihani et al., 2021): https://doi.org/10.1007/s40266-021-00895-x \
