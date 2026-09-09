@@ -1,7 +1,30 @@
 # Anticholinergic_ISACS
-This repository contains the data files as well as code to reproduce the results presented in the article: "Systems pharmacology identifies centrally acting anticholinergic activity of drugs and their aging-related signatures".
+This repository contains the code to reproduce the results presented in the article: "Systems pharmacology identifies centrally acting anticholinergic activity of drugs and their aging-related signatures".
 
-DrugBank raw data could be accessed in https://go.drugbank.com/releases/latest under the academic license agreement.
+Access to raw data from databases:
+DrugBank (under the academic license agreement): https://go.drugbank.com/releases/latest
+DGIdb: https://dgidb.org/downloads
+TTD: https://ttd.idrblab.cn/full-data-download
+BindingDB: https://www.bindingdb.org/rwd/bind/chemsearch/marvin/Download.jsp
+ChEMBL: https://www.ebi.ac.uk/chembl/
+Drug Repurposing Hub (Broad Institute): https://repo-hub.broadinstitute.org/repurposing
+PSICHIC: https://github.com/huankoh/PSICHIC/tree/main/examples
+HPA: https://www.proteinatlas.org/
+ADMETLAB3.0: https://admetlab3.scbdd.com/
+ONSIDES: https://onsidesdb.org/
+SIDER: https://sideeffects.embl.de/
+DrugMatrix Affymetrix Superseries: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE57822
+DrugMatrix CodeLink Superseries: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE59927
+
+Access to raw data from publications:
+Cmax (Smit et al., 2020): https://doi.org/10.1021/acs.chemrestox.0c00294
+Chew's SAA list (Chew et al., 2008): https://doi.org/10.1111/j.1532-5415.2008.01737.x
+ACSBC (Al Rihani et al., 2021): https://doi.org/10.1007/s40266-021-00895-x
+ORCA (Simal et al., 2025): https://doi.org/10.1093/ageing/afaf313
+ABC, ADS, ACB, ARS, AAS, and ALS (Lozano-Ortega et al., 2020): https://doi.org/10.1016/j.archger.2019.05.010
+ABS (Yamada et al., 2023): https://doi.org/10.1111/ggi.14619
+ATS (Xu et al., 2017): https://doi.org/10.1177/2042098617725267
+AEC (Bishara et al., 2016): https://doi.org/10.1002/gps.4507
 
 Below is the list of R scripts:\
 0_HelperFunctions.R - helper functions for network medicine approach.\
