@@ -1,7 +1,7 @@
 # Anticholinergic_ISACS
 This repository contains the data files as well as code to reproduce the results presented in the article: "Systems pharmacology identifies centrally acting anticholinergic activity of drugs and their aging-related signatures".
 
-DrugBank raw data could be accessed in https://go.drugbank.com/releases/latest under the academic license agreement.\
+DrugBank raw data could be accessed in https://go.drugbank.com/releases/latest under the academic license agreement.
 
 Below is the list of R scripts:\
 0_HelperFunctions.R - helper functions for network medicine approach.\
