@@ -40,7 +40,7 @@ Below is the list of R scripts:\
 6_2_RedefiningAnticholinergics_StandardAnalysis.R - network analysis on anticholinergic properties.\
 6_3_RedefiningAnticholinergics_Classification.R - development and creation of ISACS and drug-centric anticholinergic effect association analysis.\
 6_4_RedefiningAnticholinergics_CompareScales.R - comparing ISACS with existing anticholinergic scales and characterizing safety parameters.\
-7_1_Compiling_DrugMatrix.R - DrugMatrix data ascertainment from GEO.\
+7_1_Compiling_DrugMatrix.R - DrugMatrix data ascertainment from GEO.
 7_2_tAge_analysis.R - tAge calculation from DrugMatrix dataset.\
 7_3_tAge_visualization.R - tAge association analysis with ISACS on DrugMatrix.\
 8_1_NHANES_setup.R - NHANES data ascertainment and processing.\
